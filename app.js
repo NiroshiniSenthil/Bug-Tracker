@@ -1,6 +1,6 @@
 function addBug(){
 
-    let input = document.getElementById("bugInput");
+    let input = document.getElementById("BugInput");
 
     let bugText = input.value;
 
